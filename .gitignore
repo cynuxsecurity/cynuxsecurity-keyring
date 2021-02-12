@@ -11,3 +11,18 @@
 
 pkg/
 src/
+*~
+/.gnupg/
+/.subversion/
+
+*.swp
+*.swo
+*.swn
+*~
+*.tmp
+tags
+
+.MTREE
+.PKGINFO
+
+.vim.session
