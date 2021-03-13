@@ -3,6 +3,6 @@ Keyring for cynuxsecurity
 
 Package Management:
 
-```pacman-key -r B7267E3BAD40B343D7D4E10BA1020679E994F20F```
+```pacman-key -r 3DC791A07CF8C855519A2C28374946FE3E8762CF```
 
  
